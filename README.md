@@ -1,1 +1,1 @@
-# css-grid-animated
+# Responsive Animated CSS Grid Examples
